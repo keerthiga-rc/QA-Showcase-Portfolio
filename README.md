@@ -90,3 +90,5 @@ testing thinking, and continuous learning.
 - Improving documentation and testing efficiency
 
 ---
+**Note**: This repository is actively being updated as part of continuous learning
+and skill enhancement in QA and API testing.
